@@ -16,10 +16,10 @@ Here are some of the exciting projects I’m working on:
 ---
 
 ### 📚 Skills & Technologies
-- **Programming Languages**: C#, JavaScript, Python  
-- **Frameworks & Libraries**: Discord.Net, MongoDB  
-- **Tools**: Git, Yuzu, Nexus Mods  
-- **Modding Expertise**: Game file extraction, optimization, and backup tools  
+- **Programming Languages**: C#, JavaScript, PHP, HTML, CSS... Too many!
+- **Frameworks & Libraries**: Discord.Net, MongoDB, pretty much any framework with docs.
+- **Tools**: Git, VS Code, VS Studio 2022 Preview, Notepad++
+- **Modding Expertise**: Game file extraction, modification, optimization, and backup tools  
 
 ---
 
