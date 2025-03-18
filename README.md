@@ -33,7 +33,7 @@ Here are some of the exciting projects I’m working on:
 
 ### 🌱 Learning & Goals
 - 🔍 **Currently Learning**: Advanced AI systems and emotion processing for bots, furthering my Node.js Back-end and Front-End skills, and continuing to advance my learning in .net and C.  
-- 🎯 **Future Goals**: Expanding ByteKnight AI CORE to include advanced emotional intelligence features, with full long term and short term memory capabilities.  
+- 🎯 **Future Goals**: Expanding ByteKnight AI CORE to include advanced emotional intelligence features, and to make ByteKnight’s AI even smarter and more helpful.
 
 ---
 
