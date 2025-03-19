@@ -4,6 +4,8 @@
 Hi, I’m **V0idpool**, I've been programming and developing apps and web apps for over 15 years.🛠️.
 I’m passionate about creating **Discord bots**, **Modding tools**,  and **Game mods**. I enjoy pushing the boundaries of what's possible in the modding and bot development space with innovative projects and tools.
 
+![](https://github-readme-stats.vercel.app/api?username=V0idpool&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)
+
 ---
 
 ### 🚀 Current Projects
