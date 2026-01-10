@@ -9,7 +9,7 @@ I’m passionate about creating **Discord bots**, **Modding tools**,  and **Game
 
 ### 🚀 Current Projects
 Here are some of the exciting projects I’m working on:
-- **ByteKnight CLI**: A powerful, multi-purpose Discord bot built with .NET and MongoDB, offering robust moderation, leveling systems, and more.  
+- **RustForge Sign Painter**: RustForge takes any image, automatically converts it to the closest Rust color palette, or can utilize the new adaptive palette (supports up to 512 colors) and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 - **TotK Tools Mod Manager**: A mod manager for *The Legend of Zelda: Tears of the Kingdom*, featuring save editors, Yuzu optimizations, and mod backups.  
 - **VoidWatch Guardian**: A Windows-based watchdog application designed to automatically monitor, restart, restart periodically and manage Discord bot executables or any other application executables.
 - **SoD Tools**: A modding tool for *State of Decay*, enabling easy extraction and management of game files.
