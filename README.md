@@ -10,6 +10,7 @@ I’m passionate about creating **Discord bots**, **Modding tools**,  and **Game
 ### 🚀 Current Projects
 Here are some of the exciting projects I’m working on:
 - **RustForge Sign Painter**: RustForge takes any image, automatically converts it to the closest Rust color palette, or can utilize the new adaptive palette (supports up to 512 colors) and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
+- **Rust Optimizer**: Rust Optimizer is a tool designed to help users quickly and easily optimize their Rust game settings. It automates the process of adjusting the game's client.cfg file to improve performance and provide an optimal gaming experience based on your system hardware.
 - **TotK Tools Mod Manager**: A mod manager for *The Legend of Zelda: Tears of the Kingdom*, featuring save editors, Yuzu optimizations, and mod backups.  
 - **VoidWatch Guardian**: A Windows-based watchdog application designed to automatically monitor, restart, restart periodically and manage Discord bot executables or any other application executables.
 - **SoD Tools**: A modding tool for *State of Decay*, enabling easy extraction and management of game files.
@@ -25,7 +26,8 @@ Here are some of the exciting projects I’m working on:
 ---
 
 ### 🌟 Popular Repositories
-- [**TotK Tools Mod Manager**](https://github.com/V0idpool/TotK-Tools-Mod-Manager): Manage *Tears of the Kingdom* mods with ease.  
+- [**TotK Tools Mod Manager**](https://github.com/V0idpool/TotK-Tools-Mod-Manager): Manage *Tears of the Kingdom* mods with ease.
+- [**Rust Optimizer**](https://github.com/V0idpool/RustOptimizer): A tool designed to help users quickly and easily optimize their Rust game settings. It automates the process of adjusting the game's client.cfg file to improve performance and provide an optimal gaming experience based on your system hardware.
 - [**ByteKnight Console**](https://github.com/V0idpool/ByteKnight_Console): Streamlined CLI Discord bot offering advanced moderation tools.  
 - [**VoidWatch Guardian**](https://github.com/V0idpool/VoidWatch_Guardian): A watchdog application to monitor and manage Discord bot executables.
 - [**SoD Tools**](https://github.com/V0idpool/SoD_Tools): A modding tool for *State of Decay*, enabling easy extraction and management of game files.
@@ -39,7 +41,7 @@ Here are some of the exciting projects I’m working on:
 ---
 
 ### 💬 Let's Connect
-- **Website**: [MyCodeForge](https://mycodeforge.com/)  
+- **Website **: [Rustforge.us](https://rustforge.us/) 
 - **Support My Work**: [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev)
 - **Nexus Mods Profile**: [My Nexus Mods](https://next.nexusmods.com/profile/Voidpool/mods)  
 
