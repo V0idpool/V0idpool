@@ -48,7 +48,3 @@ Here are some of the exciting projects I’m working on:
 ---
 
 ### ⚡ Fun Fact: I’m building a chaotic empire of bots and mods while sipping coffee ☕.
-
----
-
-> **✨ Contributions**: Making the modding and bot development world better, one commit at a time!
