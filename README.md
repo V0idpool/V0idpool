@@ -7,7 +7,7 @@ I’m passionate about creating **Discord bots**, **Modding tools**,  and **Game
 ![](https://github-readme-stats.vercel.app/api?username=V0idpool&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)
 ---
 
-### 🚀 Current Projects
+### Current Projects
 Here are some of the exciting projects I’m working on:
 - **RustForge Sign Painter**: RustForge takes any image, automatically converts it to the closest Rust color palette, or can utilize the new adaptive palette (supports up to 512 colors) and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 - **Rust Optimizer**: Rust Optimizer is a tool designed to help users quickly and easily optimize their Rust game settings. It automates the process of adjusting the game's client.cfg file to improve performance and provide an optimal gaming experience based on your system hardware.
@@ -17,7 +17,7 @@ Here are some of the exciting projects I’m working on:
 
 ---
 
-### 📚 Skills & Technologies
+### Skills & Technologies
 - **Programming Languages**: C#, JavaScript, PHP, HTML, CSS... Too many!
 - **Frameworks & Libraries**: Discord.Net, MongoDB, pretty much any framework with docs.
 - **Tools**: Git, VS Code, VS Studio 2022 Preview, Notepad++
@@ -25,7 +25,7 @@ Here are some of the exciting projects I’m working on:
 
 ---
 
-### 🌟 Popular Repositories
+### Popular Repositories
 - [**TotK Tools Mod Manager**](https://github.com/V0idpool/TotK-Tools-Mod-Manager): Manage *Tears of the Kingdom* mods with ease.
 - [**Rust Optimizer**](https://github.com/V0idpool/RustOptimizer): A tool designed to help users quickly and easily optimize their Rust game settings. It automates the process of adjusting the game's client.cfg file to improve performance and provide an optimal gaming experience based on your system hardware.
 - [**ByteKnight Console**](https://github.com/V0idpool/ByteKnight_Console): Streamlined CLI Discord bot offering advanced moderation tools.  
@@ -34,17 +34,17 @@ Here are some of the exciting projects I’m working on:
 
 ---
 
-### 🌱 Learning & Goals
+### Learning & Goals
 - 🔍 **Currently Learning**: Advanced AI systems and emotion processing for bots, furthering my Node.js Back-end and Front-End skills, and continuing to advance my learning in .net and C.  
 - 🎯 **Future Goals**: Expanding ByteKnight AI CORE to include advanced emotional intelligence features, and to make ByteKnight’s AI even smarter and more helpful.
 
 ---
 
-### 💬 Let's Connect
+### Let's Connect
 - **Website **: [https://voidtech.xyz](https://voidtech.xyz/) 
 - **Support My Work**: [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev)
 - **Nexus Mods Profile**: [My Nexus Mods](https://next.nexusmods.com/profile/Voidpool/mods)  
 
 ---
 
-### ⚡ Fun Fact: I’m building a chaotic empire of bots and mods while sipping coffee ☕.
+### Fun Fact: I’m building a chaotic empire of bots and mods while sipping coffee ☕.
